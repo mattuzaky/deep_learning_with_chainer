@@ -1,1 +1,2 @@
 # deep_learning_with_chainer
+Chainerによる実践深層学習の実装
